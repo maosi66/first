@@ -1,4 +1,0 @@
-first
-=====
-
-the first project
